@@ -1,4 +1,4 @@
-# TRON – Offline Embedded OCR & Voice Assistant
+# TRON – Offline Embedded OCR & Voice Assistant.
 
 ## Overview
 
